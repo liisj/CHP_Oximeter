@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+  <MacAddress>001C050046AC</MacAddress>  <!--The mac address printed on the side of the oximeter-->
+  <Pincode>199646</Pincode> <!--The pin printed on the side of the oximeter-->
+  <DatabaseAddress>localhost</DatabaseAddress> <!--The ip address of the database-->
+  <DatabasePort>5433</DatabasePort> <!--The port of the database-->
+  <DatabaseUser>postgres</DatabaseUser> <!--The username for the database-->
+  <DatabaseName>ht13</DatabaseName> <!--The name of the database-->
+  <DatabasePassword>postgres</DatabasePassword> <!--The password for the database-->
+  <PatientID>1</PatientID> <!--The patient id of the current user-->
+</items>
+
+
